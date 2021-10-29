@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">C Programs</string>
+    <string-array name="program_name">
+       <item>Swap Values of two variables using third variable</item>
+        <item>Swap Values of two variables without using third variable</item>
+        <item>Check whether year is leap year or not</item>
+        <item>Find the maximum among three numbers</item>
+        <item>Find if a number is prime or not</item>
+        <item>Find the factorial of a number</item>
+        <item>Check number is armstrong or not</item>
+        <item>Print the Fibonacci series</item>
+        <item>Print the prime numbers between 1 to n </item>
+        <item>Check if it a Palindrome</item>
+        <item>Find the sum of digits of a numbers</item>
+        <item>Check if it is an Armstrong number</item>
+
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
